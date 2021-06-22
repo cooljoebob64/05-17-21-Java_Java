@@ -40,6 +40,7 @@ public class MadLib {
 				noun2,verb1,verb2,verb3,noun3,noun4,verb4,noun5,verb5);
 		
 		
+		
 		input.close();
 	}
 
